@@ -1,0 +1,4 @@
+﻿  源2021年8月29日11点26分.cpp
+C:\Users\LYT\Desktop\VS2019 CODE\card game\card game\源2021年8月29日11点26分.cpp(2,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+C:\Users\LYT\Desktop\VS2019 CODE\card game\card game\源2021年8月29日11点26分.cpp : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  card game.vcxproj -> C:\Users\LYT\Desktop\VS2019 CODE\card game\Debug\card game.exe
